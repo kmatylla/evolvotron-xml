@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<evolvotron-image-function version="0.6.1" zsweep="sinusoidal" projection="planar">
+  <f>
+    <type>FunctionTop</type>
+    <p>0.00224672</p>
+    <p>0.00370153</p>
+    <p>0</p>
+    <p>1.00494</p>
+    <p>0</p>
+    <p>0</p>
+    <p>0</p>
+    <p>1.00494</p>
+    <p>0</p>
+    <p>0</p>
+    <p>0</p>
+    <p>0.939549</p>
+    <p>-2.28509</p>
+    <p>0.747607</p>
+    <p>-1.18139</p>
+    <p>0.488349</p>
+    <p>-1.7995</p>
+    <p>-2.4932</p>
+    <p>-0.0534191</p>
+    <p>-1.58082</p>
+    <p>-0.612457</p>
+    <p>-1.11487</p>
+    <p>0.381598</p>
+    <p>1</p>
+    <f>
+      <type>FunctionMultiscaleNoiseThreeChannel</type>
+    </f>
+  </f>
+</evolvotron-image-function>
