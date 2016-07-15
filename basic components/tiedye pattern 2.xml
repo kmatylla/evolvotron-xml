@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<evolvotron-image-function version="0.6.1" zsweep="sinusoidal" projection="planar">
+<evolvotron-image-function version="0.6.3" zsweep="sinusoidal" projection="planar">
   <f>
     <type>FunctionTop</type>
     <p>9.37195</p>
@@ -32,28 +32,10 @@
         <type>FunctionFriezeGroupHopBlendClampZ</type>
         <p>0.349292</p>
         <f>
-          <type>FunctionComposePair</type>
-          <f>
-            <type>FunctionConstant</type>
-            <p>-1.02981</p>
-            <p>0.221476</p>
-            <p>0.659758</p>
-          </f>
-          <f>
-            <type>FunctionComposePair</type>
-            <f>
-              <type>FunctionConstant</type>
-              <p>0.136867</p>
-              <p>-1.85896</p>
-              <p>-0.923726</p>
-            </f>
-            <f>
-              <type>FunctionConstant</type>
-              <p>-0.348825</p>
-              <p>-0.0405647</p>
-              <p>1.39904</p>
-            </f>
-          </f>
+          <type>FunctionConstant</type>
+          <p>-0.348825</p>
+          <p>-0.0405647</p>
+          <p>1.39904</p>
         </f>
         <f>
           <type>FunctionComposePair</type>

@@ -63,40 +63,10 @@
         <f>
           <type>FunctionTransformGeneralised</type>
           <f>
-            <type>FunctionGradient</type>
-            <p>-2.08627</p>
-            <p>-0.388377</p>
-            <p>-3.69712</p>
-            <f>
-              <type>FunctionComposePair</type>
-              <f>
-                <type>FunctionConstant</type>
-                <p>-1.19218</p>
-                <p>0.0898162</p>
-                <p>-2.01869</p>
-              </f>
-              <f>
-                <type>FunctionPreTransform</type>
-                <p>0.41872</p>
-                <p>-1.54188</p>
-                <p>0.862964</p>
-                <p>-0.467468</p>
-                <p>-0.468789</p>
-                <p>-0.493018</p>
-                <p>-2.18324</p>
-                <p>-0.621099</p>
-                <p>-2.19868</p>
-                <p>0.467889</p>
-                <p>-0.228538</p>
-                <p>0.753048</p>
-                <f>
-                  <type>FunctionConstant</type>
-                  <p>-0.327512</p>
-                  <p>0.810626</p>
-                  <p>0.206039</p>
-                </f>
-              </f>
-            </f>
+            <type>FunctionConstant</type>
+            <p>0</p>
+            <p>0</p>
+            <p>0</p>
           </f>
           <f>
             <type>FunctionMax</type>
@@ -116,28 +86,10 @@
               <p>0.571704</p>
             </f>
             <f>
-              <type>FunctionComposePair</type>
-              <f>
-                <type>FunctionTransform</type>
-                <p>-0.175789</p>
-                <p>-0.041616</p>
-                <p>-0.486986</p>
-                <p>-1.00837</p>
-                <p>1.31342</p>
-                <p>0.5292</p>
-                <p>1.64533</p>
-                <p>0.264307</p>
-                <p>0.325663</p>
-                <p>-1.34362</p>
-                <p>-0.203926</p>
-                <p>-0.454508</p>
-              </f>
-              <f>
-                <type>FunctionConstant</type>
-                <p>0.274911</p>
-                <p>0.741169</p>
-                <p>3.3508</p>
-              </f>
+              <type>FunctionConstant</type>
+              <p>0.274911</p>
+              <p>0.741169</p>
+              <p>3.3508</p>
             </f>
           </f>
           <f>
@@ -161,16 +113,10 @@
                 <p>0.479103</p>
               </f>
               <f>
-                <type>FunctionDerivative</type>
-                <p>-1.1853</p>
-                <p>-0.0142702</p>
-                <p>0.201427</p>
-                <f>
-                  <type>FunctionConstant</type>
-                  <p>-0.261643</p>
-                  <p>0.276974</p>
-                  <p>0.754936</p>
-                </f>
+                <type>FunctionConstant</type>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
               </f>
             </f>
           </f>
